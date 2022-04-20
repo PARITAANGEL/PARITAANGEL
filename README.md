@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parita Patel</h1>
 <h3 align="center">WELCOME TO MY PROFILE</h3>
 
-Hello, My name is Parita. I have completed Bachlor of Science in Mathematics from Gujarat University at 2018. I have completed b.ed in science in 2020 from Gujarat University. I am always excited
+Hello, My name is Parita. I have completed Bachlor of Science in Mathematics from Gujarat University at 2015. I have completed b.ed in science in 2018 from Gujarat University. I am always excited
 to learn and teach new things. I am certified with Google Data Analytics Professional.
 
 - 🌱 I’m currently learning **Tableau, R, SQL, Python**
