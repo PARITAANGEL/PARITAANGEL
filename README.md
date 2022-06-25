@@ -4,7 +4,7 @@
 Hello, My name is Parita. I have completed Bachelor of Science in Mathematics from Gujarat University at 2015. I have completed b.ed in science in 2018 from Gujarat University. I am always excited
 to learn and teach new things. I am certified with Google Data Analytics Professional.
 
-- 🌱 I’m currently learning **Tableau, R, SQL, Python**
+- 🌱 I’m currently learning **Tableau, R, SQL, Python, Power BI**
 
 - 💬 Ask me about **Data Analysis**
 
